@@ -36,6 +36,6 @@ public class WordReverse {
             System.out.print(wordArray[i]);
         } 
         
-        System.out.println("The reverse is: " + wordReverse +".. EDITED.");
+        System.out.println("The reverse is: " + wordReverse);
     }
 }
